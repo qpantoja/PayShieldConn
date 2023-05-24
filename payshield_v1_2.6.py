@@ -3,7 +3,7 @@ import socket
 import sys
 
 # Define the IP address and port number of the PayShield device
-ip_address = '192.168.1.100'
+ip_address = 'XXX.XXX.XXX.XXX'
 port = 1500
 
 # Get the command from the user input
