@@ -12,7 +12,7 @@ import sys
 
 # Define the IP address and port number of the PayShield device
 ip_address = 'XX.XX.XX.XX'
-port = 1500
+port = 2500
 
 # Encode a command to be sent to PayShield
 def encode_str(command_dec):
